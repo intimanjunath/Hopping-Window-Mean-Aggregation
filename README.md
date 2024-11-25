@@ -1,6 +1,7 @@
 # Hopping Window Mean Aggregation
 
 This project demonstrates how to perform **hopping window mean aggregation** on time-series data using Python. Hopping windows are commonly used in real-time stream processing systems to compute aggregated statistics over overlapping or non-overlapping windows, allowing for efficient and scalable data analysis.
+![Screenshot 2024-11-24 at 10 15 16 PM](https://github.com/user-attachments/assets/62b9955d-2ad0-482e-9eee-d3d6c7aea03d)
 
 ---
 
